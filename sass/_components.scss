@@ -2,11 +2,13 @@
 // LOGO
 .logo {
   height: 3.25rem;
+  margin-left: 3rem;
 }
 
 //////////////////////////////////////////////
 // Search Box
 .search {
+  background-color: orangered;
   &__input {
   }
   &__button {
@@ -22,6 +24,7 @@
 // User Navigation
 
 .user-nav {
+  background-color: greenyellow;
   &__icon-box {
   }
   &__icon {
